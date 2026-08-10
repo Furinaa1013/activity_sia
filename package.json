@@ -1,0 +1,28 @@
+{
+  "name": "beligolo.sia",
+  "version": "1.0.0",
+  "description": "activities",
+  "keywords": [
+    "sia",
+    "activity",
+    "sy25-26"
+  ],
+  "homepage": "https://github.com/Furinaa1013/activity_sia#readme",
+  "bugs": {
+    "url": "https://github.com/Furinaa1013/activity_sia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Furinaa1013/activity_sia.git"
+  },
+  "license": "ISC",
+  "author": "Beligolo, Jiraiyah Ethan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
